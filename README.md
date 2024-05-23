@@ -1,16 +1,16 @@
-## Hi there 👋
+##boas vindas ao meu perfil😧
 
-<!--
-**Beatrizfernandes2424/Beatrizfernandes2424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e beatriz
 
-Here are some ideas to get you started:
+-estou estudando no [Alura](https//www.alura.com.br)
+-estou desenvolvendo uma linguagem javaScript
+-utilize esse espaço para minha organizacão e compartilhamento do meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce pode entar em contato comigo 📧
+
+00001112612361sp@al.educacao.sp.gov.br
+
+@beatriz.fernandes
+
+![](https://media1.tenor.com/m/1b7f78CPkhwAAAAd/dr-pepper-child.gif)
+
